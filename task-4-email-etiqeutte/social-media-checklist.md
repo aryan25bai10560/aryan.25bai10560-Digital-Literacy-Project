@@ -10,7 +10,7 @@ Do's
 2.Think before posting anything on social media and ensure that it reflects positively on you.
 
 
-3.Use it for your personal developement and networking by joining different groups, channels and exploring more ooportunities.
+3.Use it for your personal developement and networking by joining different groups, channels and exploring more opportunities.
 
 
 4.Comment respectfully and build a good online reputation.
@@ -20,6 +20,8 @@ Do's
 
 
 Dont's
+
+
 1.Avoid sharing sensitive information like your address, phone numbers or any other personal details.
 
 
