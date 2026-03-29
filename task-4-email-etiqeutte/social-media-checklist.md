@@ -1,7 +1,11 @@
 Social Media Checklist for Colledge Students
 Do's
 1.Adjust your privacy and limit your sharing of personal Information
+
+
 2.Think before posting anything on social media and ensure that it reflects positively on you.
+
+
 3.Use it for your personal developement and networking by joining different groups, channels and exploring more ooportunities.
 4.Comment respectfully and build a good online reputation 
 5. Always maintain a professional profile by using a clear photo and appropiate biography expecially on platforms like LinkedIn.
