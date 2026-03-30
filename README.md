@@ -17,7 +17,7 @@ The portfolio focuses on practical learning and real-world applications, ensurin
 
 ---
 
-##  Task 1: Visual Awareness Slide
+##  Task 1: Presentation
 - **Tool Used:** Microsoft PowerPoint  
 - **Objective:** Create a visual slide on digital literacy  
 
@@ -32,7 +32,7 @@ The portfolio focuses on practical learning and real-world applications, ensurin
 
 ---
 
-##  Task 2: Professional Online Presence
+##  Task 2: Student's Profile Portfolio
 ### Platforms Used:
 - **LinkedIn** – Professional networking and job opportunities  
 - **GitHub** – Open source coding and colledge project works 
@@ -45,7 +45,7 @@ The portfolio focuses on practical learning and real-world applications, ensurin
 
 ---
 
-##  Task 3: Coding & Outreach
+##  Task 3: Coding Platforms 
 ### Part A:
 - **Platform:** HackerRank  
 - **Activity:** Completed beginner Python challenge  
@@ -62,7 +62,7 @@ The portfolio focuses on practical learning and real-world applications, ensurin
 
 ---
 
-## 📧 Task 4: Digital Communication
+##  Task 4: Digital Communication
 ### Scenario:
 Improper email communication led to negative professional consequences.
 
@@ -73,7 +73,7 @@ Improper email communication led to negative professional consequences.
 
 ---
 
-##  Task 5: Cyber Safety Awareness
+##  Task 5: Cybercrime safety
 ### Insights:
 - Online scams are becoming more easy and comfortable.  
 - Even tech-savvy users can be targeted  
