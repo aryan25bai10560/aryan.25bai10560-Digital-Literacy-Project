@@ -5,6 +5,8 @@ Whats this UPI Online Fraud?
 
 
 UPI money fraud is a deceptive practice where scammers exploit the Unified Payments Interface (UPI) system to steal money, usually by tricking users into entering their UPI PIN on a "request money" screen. Common tactics include phishing, fake customer support calls, QR code scams, and screen-sharing apps to gain unauthorized access
+
+
 Scenario:
 
 
