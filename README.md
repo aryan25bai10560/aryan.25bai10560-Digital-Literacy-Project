@@ -11,7 +11,7 @@
 ---
 
 ##  Introduction
-This Digital Literacy Portfolio showcases the work completed across five modules aimed at building essential digital skills. These include creating visual content, developing a professional online presence, practicing coding, improving communication skills, and understanding cyber safety.
+This Digital Literacy Portfolio showcases different five taks completed aimed at building essential digital literacy skills. These include creating visual content, developing a professional online skills, practicing coding, improving communication skills, and understanding cyber security and its safety.
 
 The portfolio focuses on practical learning and real-world applications, ensuring readiness to both use and promote digital tools effectively.
 
@@ -35,12 +35,12 @@ The portfolio focuses on practical learning and real-world applications, ensurin
 ##  Task 2: Professional Online Presence
 ### Platforms Used:
 - **LinkedIn** – Professional networking and job opportunities  
-- **GitHub** – Code hosting and project collaboration  
-- **Kaggle** – Data science and machine learning practice  
+- **GitHub** – Open source coding and colledge project works 
+- **Kaggle** – Data science and machine learning practices and applications  
 
 ### Future Use:
 - Build resume and professional network  
-- Showcase projects and skills  
+- Showcase projects and coding skills
 - Participate in competitions and learning  
 
 ---
@@ -48,15 +48,17 @@ The portfolio focuses on practical learning and real-world applications, ensurin
 ##  Task 3: Coding & Outreach
 ### Part A:
 - **Platform:** HackerRank  
-- **Activity:** Completed beginner Python challenges  
+- **Activity:** Completed beginner Python challenge  
 
 ### Part B:
-- **Tool:** Google Forms  
-- **Activity:** Created a Digital Literacy Awareness Quiz  
+- **Tool:** Google Forms and sheets 
+- **Activity:** Created a Digital Literacy Awareness Quiz
+
+- Google Form Link:https://docs.google.com/forms/d/1LiVIEw7CfWXlCW8wYT7iw_aEeM3OzsjeQ66GVabrwtU/edit 
 
 ### Learning:
-- Strengthened coding basics  
-- Learned data collection and analysis using forms  
+- Strengthened coding basic practices
+- Learned data collection, structure, analysis and representation using forms and sheets.
 
 ---
 
@@ -66,14 +68,14 @@ Improper email communication led to negative professional consequences.
 
 ### Key Learnings:
 - Importance of tone and structure  
-- Proper use of subject, greeting, and format  
+- Proper use of subject, greeting, format and sign off 
 - Professional communication builds strong relationships  
 
 ---
 
 ##  Task 5: Cyber Safety Awareness
 ### Insights:
-- Online scams are becoming more sophisticated  
+- Online scams are becoming more easy and comfortable.  
 - Even tech-savvy users can be targeted  
 
 ### Personal Changes:
